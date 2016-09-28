@@ -1,0 +1,2 @@
+load 'aa_questions.rb'
+gj = User.new('fname' => 'Gary', 'lname' => 'Johnson')
